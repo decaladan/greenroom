@@ -1,0 +1,24 @@
+[
+  {
+    "name": "hero_idle",
+    "image": "out/keys/hero_idle.png",
+    "out": "out/vids/hero_idle.mp4",
+    "duration": 4,
+    "prompt": "A small creature on a flat solid pure green screen. Gentle idle: it breathes with a slight rise and fall, blinks, ears twitch, tail sways a little, and stays in place. The final frame matches the first frame exactly for a seamless loop, no camera movement, the green background stays flat and unchanged. Keep the ENTIRE creature inside the frame at all times."
+  },
+  {
+    "name": "hero_eat",
+    "image": "out/keys/hero_eat.png",
+    "out": "out/vids/hero_eat.mp4",
+    "duration": 4,
+    "prompt": "The creature leans its head down, eats the berry and chews happily, then lifts back to the starting pose. The final frame matches the first frame exactly, no camera movement, flat unchanged green background."
+  },
+  {
+    "name": "egg_hatch",
+    "image": "out/keys/egg_whole.png",
+    "last": "out/keys/egg_cracked.png",
+    "out": "out/vids/egg_hatch.mp4",
+    "duration": 4,
+    "prompt": "The egg wobbles, a crack spreads across the shell and a piece falls away. One-way transition, no camera movement, flat unchanged green background."
+  }
+]

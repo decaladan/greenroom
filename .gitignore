@@ -1,0 +1,20 @@
+# secrets
+.env
+*.env
+!.env.example
+
+# generated work — regenerable, often large
+out/
+*.mp4
+*.webm
+*.rgb565
+*.softalpha.bak
+SPEND.log
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+.DS_Store

@@ -1,0 +1,18 @@
+[
+  {
+    "ref": "refs/hero.png",
+    "out": "out/keys/hero_idle.png",
+    "prompt": "Redraw this exact character IDENTICALLY - same design, same colours, same soft storybook style with clean dark outlines - standing in a calm friendly neutral idle pose facing the viewer, full body centred with generous margin on every side, on a flat solid pure green (#00FF00) background."
+  },
+  {
+    "ref": "refs/hero.png",
+    "out": "out/keys/hero_eat.png",
+    "prompt": "The same character, same style and colours, leaning down toward a single berry resting on the ground in front of its front paws, full body centred, on a flat solid pure green (#00FF00) background."
+  },
+  {
+    "ref": "refs/style_anchor.png,refs/layout.png",
+    "out": "out/bg/meadow.png",
+    "aspect": "3:2",
+    "prompt": "Painted side-on parallax landscape in the style of the first reference, laid out exactly as the second reference, on a flat solid pure magenta (#FF00FF) background above the horizon line."
+  }
+]
